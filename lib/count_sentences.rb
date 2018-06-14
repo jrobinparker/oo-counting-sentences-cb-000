@@ -30,4 +30,5 @@ class String
     counted = self.split("!" || "." || "?")
     counted.count
   end
+  
 end
